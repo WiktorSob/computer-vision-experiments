@@ -16,13 +16,14 @@ It consist of few parts:
 ## histograms
 
 Creating one-channel histograms for images and observing how point operators affect them.
-![histograms](output/histograms.png)
+https://github.com/WiktorSob/computer-vision-experiments/blob/main/output/histograms.jpg
+![histograms](https://github.com/WiktorSob/computer-vision-experiments/blob/main/output/histograms.png)
 
 ## histogram normalization
 
 Simple implementation of histogram normalization
 
-![normalized histogram](output/normalized_histogram.png)
+![normalized histogram](https://github.com/WiktorSob/computer-vision-experiments/blob/main/outputoutput/normalized_histogram.png)
 
 ## image segmentation using k-means model
 
@@ -30,6 +31,6 @@ This part is focused on segmentation of aerial pictures into two classes - **clo
 
 Two exampels:
 
-![segmentation](output/segmentation_1.png)
+![segmentation](https://github.com/WiktorSob/computer-vision-experiments/blob/main/outputoutput/segmentation_1.png)
 
-![segmentation](output/segmentation_2.png)
+![segmentation](https://github.com/WiktorSob/computer-vision-experiments/blob/main/outputoutput/segmentation_2.png)
