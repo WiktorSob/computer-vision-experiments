@@ -16,13 +16,13 @@ It consist of few parts:
 ## histograms
 
 Creating one-channel histograms for images and observing how point operators affect them.
-![histograms](histograms.png)
+![histograms](output/histograms.png)
 
 ## histogram normalization
 
 Simple implementation of histogram normalization
 
-![normalized histogram](normalized_histogram.png)
+![normalized histogram](output/normalized_histogram.png)
 
 ## image segmentation using k-means model
 
@@ -30,6 +30,6 @@ This part is focused on segmentation of aerial pictures into two classes - **clo
 
 Two exampels:
 
-![segmentation](segmentation_1.png)
+![segmentation](output/segmentation_1.png)
 
-![segmentation](segmentation_2.png)
+![segmentation](output/segmentation_2.png)
